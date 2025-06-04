@@ -1,4 +1,3 @@
-# 65-Keyboard
 ---
 title: "UwU Board"
 author: "Eric Zuo"
