@@ -10,5 +10,6 @@ Although I had the general gist of what I wanted to create, I needed to decide o
 Opted to use a XIAO RP2040 as I had previously used it for hackpad. Other options like a raspberry pico didn't seem to provide any major improvements.  
 From there, I decided to use ScottoKeebs placeholder switches and diodes, while setting up the schematic.  
 Did some research on the USB aspect of the project, and it appears I will need another MCU for that.  
+![kicad_qpKnatunAD](https://github.com/user-attachments/assets/3e2ffa0d-c344-4cff-bc67-8ba5f29d995d)
 
 Total time spent: 1:30
